@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Эковита</string>
+    <string name="title_activity_main">Эковита</string>
+    <string name="package_name">com.ecovitafood.mobile</string>
+    <string name="custom_url_scheme">com.ecovitafood.mobile</string>
+    <string name="facebook_app_id">361247692401530</string>
+    <string name="facebook_client_token">689406887a5c762366bf911f14226fcf</string>
+    <string name="server_client_id">538937873553-vvdo2sbugohdj1kkk47k41uhsp8e4gjj.apps.googleusercontent.com</string>
+</resources>

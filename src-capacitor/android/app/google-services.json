@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "132801495773",
+    "firebase_url": "https://ecovitafood-default-rtdb.firebaseio.com",
+    "project_id": "ecovitafood",
+    "storage_bucket": "ecovitafood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132801495773:android:7a01675d3122c7953fd134",
+        "android_client_info": {
+          "package_name": "com.ecovitafood.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeMOIB6ca_9vfHcw8y_66Ftj5rPKNXwdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132801495773:android:eb1e3e450c8660c93fd134",
+        "android_client_info": {
+          "package_name": "com.ecovitafood.courier"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeMOIB6ca_9vfHcw8y_66Ftj5rPKNXwdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132801495773:android:803c4e5a9650b6963fd134",
+        "android_client_info": {
+          "package_name": "com.ecovitafood.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeMOIB6ca_9vfHcw8y_66Ftj5rPKNXwdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
